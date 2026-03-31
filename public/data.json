@@ -129,7 +129,7 @@
         {
             "id":1104,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/rearDeltoid.png",
             "name":"rear deltoid raise",
             "level":"2",
             "part":"neck-shoulder",
@@ -143,7 +143,7 @@
         {
             "id":1105,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/ytwl.png",
             "name":"ytwl",
             "level":"1",
             "part":"neck-shoulder",
@@ -157,7 +157,7 @@
         {
             "id":1106,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/handstand.png",
             "name":"wall hand stand push up",
             "level":"4",
             "part":"neck-shoulder",
@@ -171,7 +171,7 @@
         {
             "id":1200,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/pushup.png",
             "name":"push up",
             "level":"",
             "part":"chest",
@@ -185,7 +185,7 @@
         {
             "id":1201,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/elevatedPushup.png",
             "name":"elevated push up",
             "level":"",
             "part":"chest",
@@ -199,8 +199,8 @@
         {
             "id":1202,
             "type":"calisthenic",
-            "image":"",
-            "name":"torso elevated push up",
+            "image":"/images/chestDip.png",
+            "name":"chest dip",
             "level":"",
             "part":"chest",
             "execution":[""],
@@ -213,7 +213,7 @@
         {
             "id":1203,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/sideToSide.png",
             "name":"side to side push up",
             "level":"",
             "part":"chest",
@@ -227,7 +227,7 @@
         {
             "id":1204,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/oneArm.png",
             "name":"one arm push up",
             "level":"",
             "part":"chest",
@@ -241,7 +241,7 @@
         {
             "id":1205,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/clap.png",
             "name":"clapping push up",
             "level":"",
             "part":"chest",
@@ -255,7 +255,7 @@
         {
             "id":1206,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/chestDip.png",
             "name":"chest dip",
             "level":"",
             "part":"chest",
@@ -269,7 +269,7 @@
         {
             "id":1207,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/slidingFly.png",
             "name":"sliding fly",
             "level":"",
             "part":"chest",
@@ -283,7 +283,7 @@
         {
             "id":1300,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/crunch.png",
             "name":"crunch",
             "level":"",
             "part":"core",
@@ -297,7 +297,7 @@
         {
             "id":1301,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/superman.png",
             "name":"superman",
             "level":"",
             "part":"core",
@@ -311,7 +311,7 @@
         {
             "id":1302,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/bicycle.png",
             "name":"bicycle",
             "level":"",
             "part":"core",
@@ -325,7 +325,7 @@
         {
             "id":1303,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/seatedKnee.png",
             "name":"seated knee up",
             "level":"",
             "part":"core",
@@ -339,7 +339,7 @@
         {
             "id":1304,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/bentKnee.png",
             "name":"bent knee single leg extension",
             "level":"",
             "part":"core",
@@ -353,7 +353,7 @@
         {
             "id":1305,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/legExt.png",
             "name":"double leg raise",
             "level":"",
             "part":"core",
@@ -367,7 +367,7 @@
         {
             "id":1306,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/situp.png",
             "name":"sit up",
             "level":"",
             "part":"core",
@@ -381,7 +381,7 @@
         {
             "id":1307,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/plank.png",
             "name":"front plank",
             "level":"",
             "part":"core",
@@ -393,9 +393,23 @@
             "notes":""
         },
         {
+            "id":1308,
+            "type":"calisthenic",
+            "image":"/images/rotating.png",
+            "name":"rotating three point plank",
+            "level":"2",
+            "part":"core",
+            "execution":["Get into a standard plank position. While keeping the body stable lift one arm in the air and hold for a 2 second count.", "Return to starting position then raise the other arm in the air while keeping the body stable.", "Return to starting position than raise one leg.", "Continue to rotate limps in the manner for entire set."],
+            "muscles":{
+                "primary":["Rectus Abdominis", "Internal Oblique", "External Oblique"],
+                "secondary":["Gluteous Maximus", "Quadriceps", "Trapezius"] 
+            },
+                "notes":""
+        },
+        {
             "id":1309,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/oblique.png",
             "name":"oblique raise",
             "level":"",
             "part":"core",
@@ -409,7 +423,7 @@
         {
             "id":1310,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/rfk.png",
             "name":"rkp plank",
             "level":"",
             "part":"core",
@@ -423,7 +437,7 @@
         {
             "id":1311,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/sidePlank.png",
             "name":"side plank",
             "level":"",
             "part":"core",
@@ -437,7 +451,7 @@
         {
             "id":1312,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/hangingKneeRaise.png",
             "name":"hanging leg raise",
             "level":"",
             "part":"core",
@@ -451,7 +465,7 @@
         {
             "id":1313,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/oblique.png",
             "name":"oblique hanging leg raise",
             "level":"",
             "part":"core",
@@ -465,7 +479,7 @@
         {
             "id":1314,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/rollOut.png",
             "name":"roll out",
             "level":"",
             "part":"core",
@@ -479,7 +493,7 @@
         {
             "id":1315,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/slidingSaw.png",
             "name":"sliding body saw",
             "level":"",
             "part":"core",

@@ -119,7 +119,7 @@
     "1104":{
         "name":"rear deltoid raise",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/rearDeltoid.png",
         "level":"2",
         "part":"neck-shoulder",
         "execution":["From a standing position with a towel wrapped around a pole, grab the end of the towel and lean back into position.", "Keeping the body in a straight line, raise your body by bringing the arms out to the side.", "Control the decent back to starting position."],
@@ -132,7 +132,7 @@
     "1105":{
         "name":"ytwl",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/ytwl.png",
         "level":"1",
         "part":"neck-shoulder",
         "execution":["From a standing position, bend at hips past a 45 degree torse angle, maintaining a neutral spine while sitting back and stretching the hamstrings.", "Perform 10 dynamic 'Y' motions by forming a 'Y' with the arms, returning to starting position after each repitition. Switch to 10 'T' to motions with the arms followed by 10 'W' motions.", "Transition into 10 'L' motions by holding the arms straight out with the elbows bent at 90 degrees and rotating at the shoulder joint so that the forearms move from vertical to the ground to paraelle to the ground."],
@@ -145,7 +145,7 @@
     "1106":{
         "name":"wall hand stand push up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/handstand.png",
         "level":"4",
         "part":"neck-shoulder",
         "execution":["Starting on your hand and knees, place your feet against the wall and walk your way up into a handstand position so that your toes end up against the wall, your body is relatively vertical in a straight line, and you are facing the wall.", "Lower the body slowly by bending the elbows until the head reaches the ground.", "Reverse the movement and raise the body back to starting position."],
@@ -158,7 +158,7 @@
     "1200":{
         "name":"push up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/pushup.png",
         "level":"2",
         "part":"chest",
         "execution":["Place your hands slightli wider than shoulder length and your feet together on the ground with your body in a straight line from head to toe.", "With the arms at 45 degree angles, the hands positioned directly under the elbows, the glutes and abs contracted, and the entire body tight, lower yourself until your chest touches the ground.", "Reverse the movement and raise your body until your elbows lock back out."],
@@ -171,7 +171,7 @@
     "1201":{
         "name":"elevated push up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/elevatedPushup.png",
         "level":"3",
         "part":"chest",
         "execution":["Place your feet ontop of a couch, chair or box and your hands ontop of two chairs positioned slightly wider than shoulder width apart.", "Keeping your body in a straight line and glutes tight, descend until you feel a stretch in your pecs.", "Reverse the movement and push your body up until your elbows lock out."],
@@ -181,23 +181,10 @@
         },
             "notes":""
     },
-    "1202":{
-        "name":"torso elevated push up",
-        "type":"calisthenic",
-        "image":"",
-        "level":"1",
-        "part":"chest",
-        "execution":["Place your hand ontop of a sturdy chair or table slightly wider than shoulder width and your feet close together on the ground.", "Keeping your glutes contracted and your body in a straight line, lower yourself until your chest touches the chair or table.", "Reverse the movement and raise your body until your elbows lock out."],
-        "muscles":{
-            "primary":["Pectoralis Major", "Triceps Brachii", "Anterior Deltoid"],
-            "secondary":["Serratus Anterior", "Trapezius", "Rectus Abdominis"] 
-        },
-            "notes":""
-    },
     "1203":{
         "name":"side to side push up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/sideToSide.png",
         "level":"3",
         "part":"chest",
         "execution":["Begin in a standard push up position, feet close together with toes on the floor, hands under the shoulders.", "As you descend into the push up position, lean to one side, placing more stress on the side that you're leaning toward.", "Push up to lock out and alternate on the other side."],
@@ -210,7 +197,7 @@
     "1204":{
         "name":"one arm push up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/oneArm.png",
         "level":"4",
         "part":"chest",
         "execution":["Take a wider than normal stance. Place one arm under your body and grab your upper outter leg with your non working arm.", "Lower your body while keeping the grounded arm tucked in close to the torso, keeping the body straight, the core tight, and the hips square."],
@@ -223,7 +210,7 @@
     "1205":{
         "name":"clapping push up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/clap.png",
         "level":"3",
         "part":"chest",
         "execution":["Begin in standard push up position with feet close together and arms slightly wider than shoulder width.", "Lower the body than propel the body upward as forcefully as possible, keeping the feet on you ground.", "Once airborne, clap the hands together and than catch the body in standard push up position."],
@@ -236,7 +223,7 @@
     "1206":{
         "name":"chest dip",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/chestDip.png",
         "level":"3",
         "part":"chest",
         "execution":["Begin with the hands placed on the backs on two chairs or tables and the knees bent so the feet are off the ground.", "Keeping the forearms relatively vertical, lower the body until you fee a big stretch in the pecs.", "Reverse the movement until the arms are locked out."],
@@ -249,7 +236,7 @@
     "1207":{
         "name":"sliding fly",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/slidingFly.png",
         "level":"4",
         "part":"chest",
         "execution":["Begin in standard push up position with both hand on sliding plates.", "Lower the body while sliding the arms out away from the body until your chest touches the floor.", "Push the body up to starting position."],
@@ -262,7 +249,7 @@
     "1300":{
         "name":"crunch",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/crunch.png",
         "level":"1",
         "part":"core",
         "execution":["Lie supine with the knees bent, feet on the floor, and hands at the ears. Hold the head and neck in neutral position not flexed or twisted.", "Flex the spine to 30 degrees of trunk flexion with most of the motion occuring in the thoracic spine, keeping the head and neck in proper position.", "Hold at the top briefly and then lower the trunk slowly under control."],
@@ -275,7 +262,7 @@
     "1301":{
         "name":"superman",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/superman.png",
         "level":"1",
         "part":"core",
         "execution":["Lie prone on the ground with the arms stretched forward in front of the body, palms down and the knees slightly bent and shoulder width apart.", "Simultaneously raise the torso and legs off the ground, hyperextending at the hips and not just the spine.", "Hold the top position briefly and then lower the body to starting position."],
@@ -288,7 +275,7 @@
     "1302":{
         "name":"bicycle",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/bicycle.png",
         "level":"1",
         "part":"core",
         "execution":["Lie supine with the hips flexed in the air at 90 degrees.", "With the hands at the ears, flex and rotate the upper spine by raising the torso off the ground about 30 degrees and twisting while flexing the opposite hip untils the elbow and opposite knee meet each other.", "Reverse the movement and twit to the other side as if riding a bicycle."],
@@ -301,7 +288,7 @@
     "1303":{
         "name":"seated knee up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/seatedKnee.png",
         "level":"1",
         "part":"core",
         "execution":["While seated, lean back and grab the seat of the chair, keeping the feet on the floor, chest up and head and neck in neutral position.", "Keeping the knees bent, simultaneously move the trunk forward and legs upward so the trunk a thighs move towards each other.", "Lower the torso and feet to starting position."],
@@ -314,7 +301,7 @@
     "1304":{
         "name":"bent knee single leg extension",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/bentKnee.png",
         "level":"1",
         "part":"core",
         "execution":["Lie supine on the ground. Bend both knees. Plant one foot on the ground and lift the other in the air, keeping the hip and knee flexed at 90 degree.", "Lower the bent leg toward the ground. As is approaches the ground, straighten the knee as you continue lowering the leg to the ground, stopping just short of contact.", "Reverse the moveent and return to starting position"],
@@ -327,7 +314,7 @@
     "1305":{
         "name":"double leg raise",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/legExt.png",
         "level":"2",
         "part":"core",
         "execution":["Lie supine, palms down and neck in neutral position.", "Slowly raise both feet to the air.", "Reverse the movement and return to starting position"],
@@ -340,7 +327,7 @@
     "1306":{
         "name":"sit up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/situp.png",
         "level":"1",
         "part":"core",
         "execution":["Lie supine with the hisp bent at 45 degrees and knees bent at 90 degrees.", "With the hand at the ears, flex the hips and upper back while moving only sightly in the lumbar spine.", "Slowlu descend returning to stating position."],
@@ -353,7 +340,7 @@
     "1307":{
         "name":"front plank",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/plank.png",
         "level":"1",
         "part":"core",
         "execution":["Form a pillar or bridge by supporting your body in a prone position with only the feet and forearms touching the ground.", "Keeping the body in a straight line with the elbows directly beneath the shoulders , the hand flat on the floor or claspe, and the head looking down, forcefull contract the quads and glutes.", "Hold for time."],
@@ -366,7 +353,7 @@
     "1308":{
         "name":"rotating three point plank",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/rotating.png",
         "level":"2",
         "part":"core",
         "execution":["Get into a standard plank position. While keeping the body stable lift one arm in the air and hold for a 2 second count.", "Return to starting position then raise the other arm in the air while keeping the body stable.", "Return to starting position than raise one leg.", "Continue to rotate limps in the manner for entire set."],
@@ -379,7 +366,7 @@
     "1309":{
         "name":"oblique raise",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/pblique.png",
         "level":"3",
         "part":"core",
         "execution":["Begin with a partner holding your feet, your lower body draped over a bench in a lying position, and your upper body suspended in the air with the hands at the ear and legs straight.", "Lower to torso toward the floor, limiting the bending of the lower spine while receiving a stretch in the upper hips.", "Raise the torso with a strong contraction in the gluteous medius and obliques."],
@@ -392,7 +379,7 @@
     "1310":{
         "name":"rfk plank",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/rfk.png",
         "level":"2",
         "part":"core",
         "execution":["Get into standard plank position on the forearms and feet.", "Squeeze the glutes as had as possible to posteriorly tilt the pelvis. Hold the pelvic tuck throughout the duration of the set.", "Try to drive the elbows to the feet and the feet to the elbows as if trying to pike upwards but keep the body in good alignment."],
@@ -405,7 +392,7 @@
     "1311":{
         "name":"side plank",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/sidePlank.png",
         "level":"2",
         "part":"core",
         "execution":["Form a side pillar or bridge by supporting your body in a side lying position with just one foot and one forearm touching the ground.", "Keep the body in a straight line from head to foot with a neutral head and neck position. Squeeze the glutes and keep the forearm of the lower arm pointed straight ahead.", "Hold for a time."],
@@ -418,7 +405,7 @@
     "1312":{
         "name":"hanging leg raise",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/hangingKneeRaise.png",
         "level":"2",
         "part":"core",
         "execution":["Hang from a chin up bar or sturdy rafter with palms foreward and hand about shoulder width apart keeping the legs straight.", "Raise the legs by flexing atthe hips and knees are at 90 degree angles.", "Lower the legs to starting position"],
@@ -431,7 +418,7 @@
     "1313":{
         "name":"oblique hanging leg raise",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/oblique.png",
         "level":"3",
         "part":"core",
         "execution":["Hang from a chin up bar or sturdy rafter with knees bent and hand shouder width apart, palms facing forward. Raise the knees by flexing at the hips. At the same time pull your knees to one side by laterally flexing the spine", "Raise the knees to slightly over 90 degrees relative to the ground. Lower the legs to starting position then alternate to the other side."],
@@ -444,7 +431,7 @@
     "1314":{
         "name":"roll out",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/rollOut.png",
         "level":"3",
         "part":"core",
         "execution":["Assume a kneeling position with both hands on sliding plates. Squeeze the glutes and keep head and neck in neutral position.", "Lower your body under control by extending the hips and flexing the arms until your body approaches the floor. Keep the glutes contracted forcefully.", "Raise back to the startign position."],
@@ -457,7 +444,7 @@
     "1315":{
         "name":"sliding body saw",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/slidingSaw.png",
         "level":"3",
         "part":"core",
         "execution":["Form a pillar by resting your body on the ground and prpping your self on your elbows and feet. Feet are on sliding plates.", "keep your gultes and quadriceps contracted and your head in a neutral position so your body forms a straight line.", "Rock the body forward and backward through should flexion and extension. The feet will slide with the forearm serving as a pivot point."],
