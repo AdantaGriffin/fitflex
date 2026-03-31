@@ -17,12 +17,16 @@
         font-family: "Bebas Neue";
     }
     .article{
-        border: 1px solid white;
         display: flex;
         justify-content: space-between;
         align-items: center;
+        padding: 0 20px;
+        margin-bottom: 10px;
+        &:hover {
+            cursor: pointer;
+            box-shadow: 1px 1px 10px orange;
+        }
         img{
-            border: 1px solid white;
             width: 20%;
             height: 100px;
         }

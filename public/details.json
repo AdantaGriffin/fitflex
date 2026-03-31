@@ -15,7 +15,7 @@
     "1001":{
         "name":"short lever inverted curl",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/short-lever-inverted-curl.png",
         "level":"3",
         "part":"arms",
         "execution":["Lying on your back, set up under a sturdy table or tall chair with your hands grasping the outter ledges, palms facing each other.","With your torso and legs in a straight line, neck in neutral position, knees ebnt at 90 degrees, weight on the heels, and the abdominals and glutes braced, raise your bodu by bending the elbows.", "Lower to starting position under control, moving mostly at the elbows and not the shoulder."],
@@ -28,7 +28,7 @@
     "1002":{
         "name":"short lever inverted curl",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/bicep-chin-up.png",
         "level":"3",
         "part":"arms",
         "execution":["Begin in a full stretch position, hanging from a secure rafter or chin up bar with arms in a surpinated grip, palms facing you. The toes will be off the ground and the knees can be bent.", "Pull the body over the rafter or chin up bar to sternum height while keeping the core stable","Lowering the body under control making sure you come all the way down."],
@@ -41,7 +41,7 @@
     "1003":{
         "name":"narrow tricep push up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/narrow-tricep-pushup.png",
         "level":"3",
         "part":"arms",
         "execution":["Lie face down with the hands positioned whoulder width apart and the elbows tucked into the body.","With the feet together and the core stable press the body up.","Lowering the body until the chest touches the floor."],
@@ -54,7 +54,7 @@
     "1004":{
         "name":"three point bench dip",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/three-point-bench-dip.png",
         "level":"2",
         "part":"arms",
         "execution":["Set up three chair so that your feet are resting on one and you body is centered between the other two.","With your palms on the end of the two chairs, fingers forward, and your torso upright and legs in a straight line.", "Push your body up back to starting position"],
@@ -67,7 +67,7 @@
     "1100":{
         "name":"wall anterior neck isohold",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/wall-anterior-isohold.png",
         "level":"2",
         "part":"neck-shoulder",
         "execution":["Place a folded towel on the forehead.", "From a standing position with arms at the sides, lean against the wall makign sure to keep the body in a straight line.", "Hold for desire amount of time."],
@@ -80,7 +80,7 @@
     "1101":{
         "name":"manual neck holds",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/manual-neck-isohold.png",
         "level":"1",
         "part":"neck-shoulder",
         "execution":["From a seated position with the elbows braced on the thighs, placed the hands infront of the head and aplly isometric resistence for 10 seconds.", "Place the hands on the back of the head and hold for another 10 seconds while applying manual resistance.", "Finish with a lateral isohold on each side by applying manual resistance for 10 seconds."],
@@ -93,7 +93,7 @@
     "1102":{
         "name":"push back",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/pushback.png",
         "level":"2",
         "part":"neck-shoulder",
         "execution":["Stand with feet wider than hip width and set up as up would in the bottom of a push up position, but keep your hips high.", "Push up and back while crouching at the hips, keeping the hips higher than the shoulders.", "Return to startign position"],
@@ -106,7 +106,7 @@
     "1103":{
         "name":"feet elevated pike push up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/feet-elevated-pike-pushup.png",
         "level":"3",
         "part":"neck-shoulder",
         "execution":["Place ypur hands on the floor just wider than shoulder width and your feet ontop of a sturdy chair, box, or weight bench.", "Pike into an 'L' position by walking your hands back while flexing the hips and raising your buttocks toward the ceiling, then lower your body towards the floor by bending your elbows.", "When your head reaches the ground, reverse the motion to starting pike position by locking out the arms and pushing the body high and away from the floor"],

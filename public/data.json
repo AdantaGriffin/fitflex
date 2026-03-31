@@ -3,7 +3,7 @@
         {
             "id":1000,
             "type":"calisthenic",
-            "image":"./images/tricepExtension.png",
+            "image":"/images/tricepExtension.png",
             "name":"triceps extension",
             "level":2,
             "part":"arm",
@@ -17,7 +17,7 @@
         {
             "id":1001,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/short-lever-inverted-curl.png",
             "name":"short lever inverted curl",
             "level":"3",
             "part":"arms",
@@ -31,7 +31,7 @@
         {
             "id":1002,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/bicep-chin-up.png",
             "name":"bicep chin up",
             "level":"3",
             "part":"arms",
@@ -45,7 +45,7 @@
         {
             "id":1003,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/narrow-tricep-pushup.png",
             "name":"narrow tricep push up",
             "level":"3",
             "part":"arms",
@@ -59,7 +59,7 @@
         {
             "id":1004,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/three-point-bench-dip.png",
             "name":"three point bench dip",
             "level":"2",
             "part":"arms",
@@ -73,7 +73,7 @@
         {
             "id":1100,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/wall-anterior-isohold.png",
             "name":"wall anterior neck isohold",
             "level":"2",
             "part":"neck-shoulder",
@@ -87,7 +87,7 @@
         {
             "id":1101,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/manual-neck-isohold.png",
             "name":"manual neck holds",
             "level":"1",
             "part":"neck-shoulder",
@@ -101,7 +101,7 @@
         {
             "id":1102,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/pushback.png",
             "name":"push back",
             "level":"2",
             "part":"neck-shoulder",
@@ -115,7 +115,7 @@
         {
             "id":1103,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/feet-elevated-pike-pushup.png",
             "name":"feet elevated pike push up",
             "level":"3",
             "part":"neck-shoulder",
