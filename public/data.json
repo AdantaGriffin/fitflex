@@ -507,7 +507,7 @@
         {
             "id":1400,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/pullup.png",
             "name":"pull up",
             "level":"",
             "part":"back",
@@ -521,7 +521,7 @@
         {
             "id":1401,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/sideToSide.png",
             "name":"side to sidepull up",
             "level":"",
             "part":"back",
@@ -535,7 +535,7 @@
         {
             "id":1402,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/towelUp.png",
             "name":"towel pull up",
             "level":"",
             "part":"back",
@@ -549,7 +549,7 @@
         {
             "id":1403,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/invertedRow.png",
             "name":"modified inverted row",
             "level":"2",
             "part":"back",
@@ -563,7 +563,7 @@
         {
             "id":1404,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/invertedRowSide.png",
             "name":"side to side inverted row",
             "level":"2",
             "part":"back",
@@ -577,7 +577,7 @@
         {
             "id":1405,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/scapula.png",
             "name":"scapular shrug",
             "level":"2",
             "part":"back",
@@ -591,7 +591,7 @@
         {
             "id":1406,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/towelShrug.png",
             "name":"towel face pull",
             "level":"",
             "part":"back",
@@ -605,7 +605,7 @@
         {
             "id":1500,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/sumoSquat.png",
             "name":"sumo squat",
             "level":"",
             "part":"thighs",
@@ -619,7 +619,7 @@
         {
             "id":1501,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/wallSit.png",
             "name":"wall squat isohold",
             "level":"1",
             "part":"thighs",
@@ -633,7 +633,7 @@
         {
             "id":1502,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/boxSquat.png",
             "name":"box squat",
             "level":"",
             "part":"thighs",
@@ -647,7 +647,7 @@
         {
             "id":1503,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/squat.png",
             "name":"full squat",
             "level":"",
             "part":"thighs",
@@ -661,7 +661,7 @@
         {
             "id":1504,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/sissy.png",
             "name":"sissy squat",
             "level":"",
             "part":"thighs",
@@ -675,7 +675,7 @@
         {
             "id":1505,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/singleBox.png",
             "name":"single leg box squat",
             "level":"",
             "part":"thighs",
@@ -689,7 +689,7 @@
         {
             "id":1506,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/skater.png",
             "name":"skater squat",
             "level":"",
             "part":"thighs",
@@ -703,7 +703,7 @@
         {
             "id":1507,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/pistal.png",
             "name":"pistol squat",
             "level":"",
             "part":"thighs",
@@ -717,7 +717,7 @@
         {
             "id":1508,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/lunge.png",
             "name":"static lunge",
             "level":"",
             "part":"thighs",
@@ -731,7 +731,7 @@
         {
             "id":1509,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/reverseLunge.png",
             "name":"reverse lunge",
             "level":"",
             "part":"thighs",
@@ -745,7 +745,7 @@
         {
             "id":1510,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/slidingLunge.png",
             "name":"sliding lunge",
             "level":"",
             "part":"thighs",
@@ -759,7 +759,7 @@
         {
             "id":1511,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/stepUp.png",
             "name":"step up",
             "level":"",
             "part":"thighs",
@@ -773,7 +773,7 @@
         {
             "id":1512,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/bulgarian.png",
             "name":"bulgarian split squat",
             "level":"2",
             "part":"thighs",
@@ -787,9 +787,9 @@
         {
             "id":1513,
             "type":"calisthenic",
-            "image":"",
-            "name":"bulgarian split squat",
-            "level":"2",
+            "image":"/images/hamstringCurl.png",
+            "name":"russian leg curl",
+            "level":"3",
             "part":"thighs",
             "execution":[""],
             "muscles":{
@@ -801,21 +801,7 @@
         {
             "id":1514,
             "type":"calisthenic",
-            "image":"",
-            "name":"single leg romanian deadlift",
-            "level":"2",
-            "part":"thighs",
-            "execution":[""],
-            "muscles":{
-                "primary":[""],
-                "secondary":[""]
-            },
-            "notes":""
-        },
-        {
-            "id":1515,
-            "type":"calisthenic",
-            "image":"",
+            "image":"/images/singleRomanian.png",
             "name":"single leg romanian deadlift",
             "level":"2",
             "part":"thighs",
@@ -829,7 +815,7 @@
         {
             "id":1516,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/pHyper.png",
             "name":"back extension",
             "level":"1",
             "part":"thighs",
@@ -843,7 +829,7 @@
         {
             "id":1517,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/pHyper.png",
             "name":"Reverse Hyper Extension",
             "level":"2",
             "part":"thighs",
@@ -857,7 +843,7 @@
         {
             "id":1518,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/slidingLegCurl.png",
             "name":"sliding leg curl",
             "level":"",
             "part":"thighs",
@@ -871,7 +857,7 @@
         {
             "id":1600,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/gluteBridge.png",
             "name":"glute bridge",
             "level":"",
             "part":"glutes",
@@ -885,7 +871,7 @@
         {
             "id":1601,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/hipThrust.png",
             "name":" elevated hip thrust",
             "level":"",
             "part":"glutes",
@@ -899,7 +885,7 @@
         {
             "id":1602,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/elevatedHipThrust.png",
             "name":"shoulder and feet elevated hip thrust",
             "level":"",
             "part":"glutes",
@@ -913,7 +899,7 @@
         {
             "id":1603,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/donkey.png",
             "name":"donkey kick",
             "level":"",
             "part":"glutes",
@@ -927,7 +913,7 @@
         {
             "id":1604,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/clam.png",
             "name":"side lying clam",
             "level":"",
             "part":"glutes",
@@ -941,7 +927,7 @@
         {
             "id":1605,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/hipRaise.png",
             "name":"side lying hip raise",
             "level":"",
             "part":"glutes",
@@ -955,7 +941,7 @@
         {
             "id":1700,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/elevatedCalf.png",
             "name":"elevated calf raise",
             "level":"",
             "part":"calves",
@@ -969,7 +955,7 @@
         {
             "id":1701,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/seatedCalf.png",
             "name":"squat calf raise",
             "level":"",
             "part":"calves",
@@ -983,7 +969,7 @@
         {
             "id":1702,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/calfJump.png",
             "name":"stiff leg ankle hop",
             "level":"",
             "part":"calves",
@@ -997,7 +983,7 @@
         {
             "id":1800,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/jumpingJack.png",
             "name":"jumping jack",
             "level":"",
             "part":"full",
@@ -1011,7 +997,7 @@
         {
             "id":1801,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/burpee.png",
             "name":"burpee",
             "level":"",
             "part":"full",
@@ -1025,7 +1011,7 @@
         {
             "id":1802,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/pushHitExt.png",
             "name":"push up with extension",
             "level":"",
             "part":"full",
@@ -1039,7 +1025,7 @@
         {
             "id":1803,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/towelIsoGlute.png",
             "name":"towel row isohold with glute march",
             "level":"",
             "part":"full",
@@ -1053,7 +1039,7 @@
         {
             "id":1804,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/sitToBurpee.png",
             "name":"sit up burpee",
             "level":"",
             "part":"full",
@@ -1067,7 +1053,7 @@
         {
             "id":1805,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/mountain.png",
             "name":"mountain climbers",
             "level":"",
             "part":"full",
@@ -1081,7 +1067,7 @@
         {
             "id":1806,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/bear.png",
             "name":"bear crawl",
             "level":"2",
             "part":"full",
@@ -1095,7 +1081,7 @@
         {
             "id":1807,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/muscleUp.png",
             "name":"jumping muscle up",
             "level":"",
             "part":"full",
@@ -1109,7 +1095,7 @@
         {
             "id":1808,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/croc.png",
             "name":"crocodile crawl",
             "level":"3",
             "part":"full",
@@ -1123,7 +1109,7 @@
         {
             "id":1809,
             "type":"calisthenic",
-            "image":"",
+            "image":"/images/crab.png",
             "name":"crab walk",
             "level":"",
             "part":"full",

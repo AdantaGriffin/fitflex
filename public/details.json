@@ -457,7 +457,7 @@
     "1400":{
         "name":"pull up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/pullup.png",
         "level":"3",
         "part":"back",
         "execution":["Place ypur hands over the top edge of a sturdy door with a pronated grip and posiotion our body flush against the door.", "Raise your body as high as you can while keeping a straight line from shoulders to knees.", "Lower to starting position and repeat"],
@@ -470,7 +470,7 @@
     "1401":{
         "name":"side to side pull up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/sideToSide.png",
         "level":"4",
         "part":"back",
         "execution":["Hang form a pull up bar or rafter and slightly wider than shoulder length apart.", "Keeping the chest up and the core tight, pull the body up toward one side until the chin is over the rafter,", "Lower to starting position and repeat from side to side."],
@@ -483,7 +483,7 @@
     "1402":{
         "name":"towel pull up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/towelUp.png",
         "level":"3",
         "part":"back",
         "execution":["Drape a towel over a chin up baror rafter.", "From a stretched position, raise the body while keeping the core in neutral nd pulling until the hands meet the chest.", "Lower to starting position and repeat"],
@@ -496,7 +496,7 @@
     "1403":{
         "name":"modified inverted row",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/invertedRow.png",
         "level":"",
         "part":"back",
         "execution":["Grasp the side of a sturdy table, keeping the knees bent at a 90 to 135 degreea and heel planted firmly on the ground", "Keeping the body in a straight line from the knees to the shoulders, pull your body up uintil your chest meets the table.", "Lower your body to starting position under control."],
@@ -509,7 +509,7 @@
     "1404":{
         "name":"side to side inverted row",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/invertedRowSide.png",
         "level":"4",
         "part":"back",
         "execution":["Begin suspended in a stretch position with the body in a straight line and the core tight with legs straight, heels against the ground and palms facing forward"],
@@ -522,7 +522,7 @@
     "1405":{
         "name":"scapular shrug",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/scapula.png",
         "level":"3",
         "part":"back",
         "execution":["Position your body between two couches, chair or weight benchs with the feet on the floor, the hips extended in line with the shoulders, and the back of the upper arms resting on the platform at about 45 degree angle.", "Dig your elbows into the platform and squeeze your shoulder blades together.","Lower the bodyu to starting position under control amd repeat."],
@@ -535,7 +535,7 @@
     "1406":{
         "name":"towel face pull",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/towelShrug.png",
         "level":"1",
         "part":"back",
         "execution":["Hold on to the ends of a towel that is looped around a pole and lean back with the towelsupporting your weight ub a stretched position.", "Keeping your chest up, your core tight and your body in a straight line. Pull your hands toward your ears while squeezing the scapulae together.", "Lower to starting position."],
@@ -548,7 +548,7 @@
     "1500":{
         "name":"sumo squat",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/sumoSquat.png",
         "level":"2",
         "part":"thigh",
         "execution":["Take a very wide stance and flare the feet, placing the arms in the mummy position across the upper body.", "Squat by sitting back keeping the trunk upright and knees forced outward throughout the movement.", "descend until the thighs are paraelle to the ground. Rise to standing position."],
@@ -561,7 +561,7 @@
     "1501":{
         "name":"wall squat isohold",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/wallSit.png",
         "level":"1",
         "part":"thigh",
         "execution":["Lean your back against a wall with your feet in front of you, hands on the hips.", "Lower the body until the hips reach a 90 degree angle and the thighs are paraelle to the ground. The knees are at 90 degree angle with the shins perpendicular to the ground and the feet flat on the ground.", "Hold for the desired amount of time."],
@@ -574,7 +574,7 @@
     "1502":{
         "name":"box squat",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/boxSquat.png",
         "level":"1",
         "part":"thigh",
         "execution":["Stand with your feet wider than shoulder width apart and the feet flared to your likings. Stand very close to the edge of a sturdy box.", "Initiate the movement by breaking at the hi[s and sitting back, keeping the chest up, the knees out so they can track over the toes, and the shins perpendicular to the floor.", "Pause for a moment while sitting on the box and then rise, making sure to squeeze the glutes to lockout."],
@@ -587,7 +587,7 @@
     "1503":{
         "name":"full squat",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/squat.png",
         "level":"1",
         "part":"thigh",
         "execution":["Stand with a narrow stance and feet flared.", "Iniate the movement by simultaneously breaking at the knees and hips and dropping straight down", "Keep your weight on the whole foot, the chest up, and force the knees out of the bottom of the movement so that the knees track over the middle of the feet."],
@@ -600,7 +600,7 @@
     "1504":{
         "name":"sissy squat",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/sissy.png",
         "level":"2",
         "part":"thigh",
         "execution":["Begin in a standing position with a narrow stance. Grasp somethingin front of you for balance.", "Descend by breaking at the knees and shifting them forward while leaning the torso back and rising onto the toes.", "Descend until the desired depth is reached and then rise to return to starting position."],
@@ -613,7 +613,7 @@
     "1505":{
         "name":"single leg box squat",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/singleBox.png",
         "level":"2",
         "part":"thigh",
         "execution":["Stand in front of a sturdy box, bench or chair with hands infront of the body.", "Standing on one leg, sit back and down onto the surface, keeping the chest up and spine rigid.", "The knee tracks over the midfootas you push through the heel.", "Lift the arms for counterbalance. Pause on the box for a moment, then rise to return to starting position, making sure to squeeze the glutes."],
@@ -626,7 +626,7 @@
     "1506":{
         "name":"skater squat",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/skater.png",
         "level":"3",
         "part":"thigh",
         "execution":["Stand on one foot and place the hands in front of the body.", "Sit back and down, breaking at the hips and knees while leaning forward at the trunk.", "Sit back and down, breaking at the hips and knees while leaning forward at the trunk.", "Descend until the knee of the nonworking leg approaches or touches the ground. Stand up to return to starting position. Perfom all the repititions with the weaker leg first and then switch and repeat with the stronger leg."],
@@ -639,7 +639,7 @@
     "1507":{
         "name":"pistol squat",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/pistal.png",
         "level":"4",
         "part":"thigh",
         "execution":["Stand on one leg.", "Sink dow by breaking at the hips and knees simultaneously. Taise the arms, flex the hip of the non working leg, keep the chest up and push through the heel.", "Descend until the desired depth is reached and the return to standing."],
@@ -652,7 +652,7 @@
     "1508":{
         "name":"static lunge",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/lunge.png",
         "level":"1",
         "part":"thigh",
         "execution":["Stand on one leg.", "Sink dow by breaking at the hips and knees simultaneously. Taise the arms, flex the hip of the non working leg, keep the chest up and push through the heel.", "Descend until the desired depth is reached and the return to standing."],
@@ -665,7 +665,7 @@
     "1509":{
         "name":"reverse lunge",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/reverseLunge.png",
         "level":"2",
         "part":"thigh",
         "execution":["Stand with feet pointed straight ahead and hands on hips.", "Keeping most of the weight on the front leg, step back and lean forward to an approximate 30 degree trunk level, sinking into the wrking hip  and descendong until the back knee touches the ground.", "Rise back to starting position."],
@@ -678,7 +678,7 @@
     "1510":{
         "name":"sliding lunge",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/slidingLunge.png",
         "level":"2",
         "part":"thigh",
         "execution":["Stand with feet pointed straight ahead about shoulder width apart with hands on the hips and one foot on sliding plate.", "Keep most of the weight on the foot that isnt on the plate.", "Slide the foot that is on the plate back to an approximate 30 degree trunk angle, sinking into the working hip descending until the back knee touches the ground.", "Rise to starting position"],
@@ -691,7 +691,7 @@
     "1511":{
         "name":"step up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/steUp.png",
         "level":"1",
         "part":"thigh",
         "execution":["Begin with your entire foot place ontop of a chair, the other foot remain on the ground", "shift your weight forward and lift by step up.", "Stand tall and squeeze the working glute.", "Swing the non working leg upwards by flexing the hip. Lower yourself in control to starting position."],
@@ -704,7 +704,7 @@
     "1512":{
         "name":"bulgarian split squat",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/bulgarian.png",
         "level":"2",
         "part":"thigh",
         "execution":["Stand infron of a chair or bench. Reach back with one foot resting the top of the foot on surface.", "With an upright trunk or a slight forward lean, sink the knee of the rear leg down and lsightly back to keep most of the body weight on the front leg.", "Descend until the back knee touches or almost touches the floor. Rise to starting position"],
@@ -717,7 +717,7 @@
     "1513":{
         "name":"russian leg curl",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/hamstringCurl.png",
         "level":"3",
         "part":"thigh",
         "execution":["Find a stable rail beam or couch to wedge your feet under. Kneel ontop of prefered padding.", "With an upright trunk, lower the body under control while keeping the glutes tight, aking sure not to bwnd forward too much at the hips.", "At the bottom of the movement, catch yourself in a push up position and spring back up to starting position, using the shoulder and arm muscles for assistance."],
@@ -730,7 +730,7 @@
     "1514":{
         "name":"single leg romanian deadlift",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/singleRomanian.png",
         "level":"1",
         "part":"thigh",
         "execution":["Stand on one foot. Squeeze the glute of the nongrounded leg to lock it into position as the leg travels back.", "Making sure the rear leg stays in line with the torso, bend over at the waist while shifting the weight back and looking down to prevent cervical hyperextension. Keep the chets up.", "Keeping a strong low back arch descend until your hamstring range of motion runs out. Reverse the motion back to starting position .", "switch legs and repeat"],
@@ -740,23 +740,10 @@
         },
             "notes":""
     },
-    "1515":{
-        "name":"back extensions",
-        "type":"calisthenic",
-        "image":"",
-        "level":"1",
-        "part":"thigh",
-        "execution":["With your anckle locked in place, drape your body over keeping your legs straight and neck in neutral position.", "Bend at the hips and not the spine, getting a good stretch in the hamstrings.", "Raise the torso while squeezing the glutes to lockout."],
-        "muscles":{
-            "primary":["Hamstring"],
-            "secondary":["Erector Spinae"] 
-        },
-            "notes":""
-    },
     "1516":{
         "name":"back extensions",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/pHyper.png",
         "level":"1",
         "part":"thigh",
         "execution":["With your anckle locked in place, drape your body over keeping your legs straight and neck in neutral position.", "Bend at the hips and not the spine, getting a good stretch in the hamstrings.", "Raise the torso while squeezing the glutes to lockout."],
@@ -769,7 +756,7 @@
     "1517":{
         "name":"reverse hyper extensions",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/pHyper.png",
         "level":"1",
         "part":"thigh",
         "execution":["Lie with your torso across a sturdy platfom, draping your legs over the edge and grasping the edges of the platform. Keep knees straight.", "Keeping the torso locked into place, raise the legs, making sure to squeeze the glutes up top and prevent overextension of the low back.", "Lower the legs to starting position, keeping the spine stable and making sure to prevent rounding the low back."],
@@ -782,7 +769,7 @@
     "1518":{
         "name":"sliding leg curl",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/slidingLegCurl.png",
         "level":"3",
         "part":"thigh",
         "execution":["Lie on your back with palms down, placing your heels on two sliding plates.", "Bring outward the hips while simultaneously bringing the heel towards the bittocks.", "Keep the hips high throughout the movement. Lower the body back into starting position."],
@@ -795,7 +782,7 @@
     "1600":{
         "name":"glute bridge",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/gluteBridge.png",
         "level":"1",
         "part":"glutes",
         "execution":["Lie on your back with the knees bent at 90 degrees and the palms flat on the ground.", "pushing through the heels, raise the hips as high as possible using the gulteal muscle. Move solely around the hip joint and keep the lower back in neutral position.", "Hold the bridge in top position for a moment than lower hips to starting position."],
@@ -806,9 +793,9 @@
             "notes":""
     },
     "1601":{
-        "name":"shoulder elevated hip thrust",
+        "name":"elevated hip thrust",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/hipThrust.png",
         "level":"1",
         "part":"glutes",
         "execution":["Facing upward, place your upper back on a platform with feet flat on the ground.", "Place the hands on the ears and extend the hips by squeezing the glutes. Push through the heels and keep the lower back in an neutral position.", "Rise as high as possible through the hips then lower the hips back to starting position."],
@@ -821,7 +808,7 @@
     "1602":{
         "name":"shoulder and feet elevated hip thrust",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/elevatedHipThrust.png",
         "level":"2",
         "part":"glutes",
         "execution":["Facing upward, place your back on a sturdy platform and you feet on another sturdy platform at approximately sam heights.", "Extend the hips by squeezing the glutes. Push through the heels and keep the lower back neutral.", "Rise as high as possible through the hipsand then lower the hips to startign position."],
@@ -834,7 +821,7 @@
     "1603":{
         "name":"donkey kick",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/donkey.png",
         "level":"1",
         "part":"glutes",
         "execution":["Start on all four with the head neck and spine in neutral position, the hands under the shoulders and the feet under the hips.", "Kick one leg to the rear until you reach fulll extension.", "Return to starting position and repeat all repititions on one leg before switch to the other."],
@@ -847,7 +834,7 @@
     "1604":{
         "name":"side lying clam",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/clam.png",
         "level":"1",
         "part":"glutes",
         "execution":["Start in a side lying poaiiton with the hips bent at about 135 degrees and the knees bent at about 90 degrees. The neck rest on the arm on the ground. The other arm is braced ontop of the hip.", "With the heels touching eachother, rotate the top hip up.Be sure to move at the hips.", "Return to starting position. Complete desired number of reps before switching to other side."],
@@ -860,7 +847,7 @@
     "1605":{
         "name":"side lying hip raise",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/hi[Raise.png",
         "level":"3",
         "part":"glutes",
         "execution":[""],
@@ -873,7 +860,7 @@
     "1700":{
         "name":"elevated calf raise",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/elevatedCalf.png",
         "level":"1",
         "part":"calves",
         "execution":["Begin with the toes on a platfirm and the body upright.", "While grapsing something for balance, lower the body and feel a good stretch in the calves.", "Raise the body as high as possible on the toes, holding th top position for a 1 second count. Repeat until the desired number of repititions is completed."],
@@ -886,7 +873,7 @@
     "1701":{
         "name":"squat calf raise",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/seatedCalf.png",
         "level":"1",
         "part":"calves",
         "execution":["Begin with your weight on your toes anf sink into a paraelle squat position so the knees are bent at about 90 degrees.", "While grasping something for balance and holding the hip and knee position steady, lower the body at the ankle and feel a good stretch at the ankle joint.", "Raise the body as high as possible onto the toes, holding the top position for a one second count. Repeat for desired number of reps."],
@@ -899,7 +886,7 @@
     "1702":{
         "name":"stiff leg ankle hop",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/calfJump.png",
         "level":"2",
         "part":"calves",
         "execution":["Stand with the hand at the side o hips and feet shoulder width apart.", "hop up and down keeping the knees and hips straight tryng to rely sole on the calfs muscles to propel the body.", "Repeat for desired amount of repititions."],
@@ -912,7 +899,7 @@
     "1800":{
         "name":"jumping jack",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/jumpingJack.png",
         "level":"1",
         "part":"full",
         "execution":["Stand with the arms to the sides and feet about hip width apart.", "Jump up while spreading the legs apart and raising the arms to the sides until the reach overhead.", "Land and then spring back to starting position, briging the legs back together and lowering the arms."],
@@ -925,7 +912,7 @@
     "1801":{
         "name":"burpee",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/burpee.png",
         "level":"2",
         "part":"full",
         "execution":[""],
@@ -938,7 +925,7 @@
     "1802":{
         "name":"push up with extension",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/pushHitExt.png",
         "level":"2",
         "part":"full",
         "execution":["Get into a push up position. Keep the head and neck in neutral position and on eleg flex forwrd with the knee bent so your maintaining three points of contact.", "As you lower the body toward the floor, simultaneiusly extend the hipof the free leg while keeping the knee bent the entire time.", "Raise by pressing the torso up with the pectorals, deltoids and triceps while reversing the hip back into flexion.", "Complete for desired number of repititions then swith to other leg."],
@@ -951,7 +938,7 @@
     "1803":{
         "name":"towel row isohold with glute march",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/towelIsoGlute.png",
         "level":"",
         "part":"full",
         "execution":["Drape a towel over a sturdy platform that is about waiste height. With the feet on the ground and the knees bent, feasp the ends of the towell and row the body up.", "Holding the body in an isometric position, lift one leg up by fleing at the hip then straighten the leg.", "Raise the leg all the wy up nd the lower it back down. Alternate to the other leg in marching fashion."],
@@ -964,7 +951,7 @@
     "1804":{
         "name":"sit up burpee",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/sitToBurpee.png",
         "level":"",
         "part":"full",
         "execution":["Lie on your back with your arms overhead, knees bent, and feet flare on the ground.", "Propel your body forcefullly so that you are able to land in a deep squat. The arch the back and jump in the arm while reaching the overhead.", "Absorb the landing softly, squat, and gently roll the body back to starting position."],
@@ -977,7 +964,7 @@
     "1805":{
         "name":"mountain climbers",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/mountain.png",
         "level":"3",
         "part":"full",
         "execution":["From a standing position bend over and place your palms on the floor.", "Sink the hips down and straighten one leg behind the body.", "Alternate by jumping one leg forward by flexing the hip and kicking the other leg back by extendong the hip in a climbing maneuver."],
@@ -990,7 +977,7 @@
     "1806":{
         "name":"bear crawl",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/bear.png",
         "level":"2",
         "part":"full",
         "execution":["Facing downward and keeping your head and neck in neutral alignment, Start on all fours so that your hands and feet are in contact with the ground.", "Keeping low to the ground crawl forward like a bear by flexing the arm and hip on one side of the body simutaneously extending the arm and hip of the other side.", "Crawl forward to desired length then crawl back to startign position."],
@@ -1003,7 +990,7 @@
     "1807":{
         "name":"jumping muscle up",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/muscleUp.png",
         "level":"",
         "part":"full",
         "execution":["Stand under a sturdy rafter or chin up bar. jump up and grab the rafter or bar with hands pronated.", "Without losing momentum, pull your body up as if performing an explosive pul up.", "Keep rising and transition into a dip movement, then lower the body back to starting position."],
@@ -1016,7 +1003,7 @@
     "1808":{
         "name":"crocodile crawl",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/croc.png",
         "level":"3",
         "part":"full",
         "execution":["Facing down and keeping your head and neck in neutral alignment, start on all fours with your weight on your hands and feet.", "Sing the upper body as you would in the bottom of a push up position, then crawl forward like a crocodile by alternating diagonal patterns of opposite shoulder and hip flexion and shoulder and hip extension combined with torso and hop rotation to allow for increased range of motion. Move forward with on hand and foot on opposite sides."],
@@ -1029,7 +1016,7 @@
     "1809":{
         "name":"crab walk",
         "type":"calisthenic",
-        "image":"",
+        "image":"/images/crab.png",
         "level":"2",
         "part":"full",
         "execution":["In a face up position with the neck in a neutral position and the head looking up, begin on all fours so that ypur butt is off the ground.", "Keeping the hips high walk the body back like a crab using the same side pattern of knee and arm movement.", "Walk the body back a desire length and then reverse the motion and walk the body foward to return to starting position."],
